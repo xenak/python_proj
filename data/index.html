@@ -13311,8 +13311,7 @@ div#notebook {
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Создание датафрейма</span>
 <span class="n">df</span><span class="o">=</span><span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
-<span class="n">df</span><span class="o">=</span><span class="n">df</span><span class="p">[</span><span class="n">df</span><span class="o">.</span><span class="n">broadcasts_num</span> <span class="o">!=</span> <span class="mi">0</span><span class="p">]</span> <span class="c1"># Socialblade предоставляет данные о каналах так, что один и тот же может появиться несколько раз, </span>
-<span class="c1"># если ранее он был переименован. В переименованных версиях, как правило, отсутствуют данные о предыдущих трансляциях</span>
+<span class="n">df</span><span class="o">=</span><span class="n">df</span><span class="p">[</span><span class="n">df</span><span class="o">.</span><span class="n">broadcasts_num</span> <span class="o">!=</span> <span class="mi">0</span><span class="p">]</span> <span class="c1"># Socialblade предоставляет данные о каналах так, что один и тот же может появиться несколько раз, если ранее он был переименован. В переименованных версиях, как правило, отсутствуют данные о предыдущих трансляциях</span>
 <span class="n">df</span><span class="o">=</span><span class="n">df</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span>
 <span class="n">df</span><span class="o">.</span><span class="n">drop</span><span class="p">([</span><span class="s1">&#39;index&#39;</span><span class="p">],</span> <span class="n">axis</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="n">inplace</span> <span class="o">=</span> <span class="kc">True</span><span class="p">)</span>
 </pre></div>
