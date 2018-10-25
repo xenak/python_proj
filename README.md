@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+### Twitch Content (~~and Where To Find It~~)
 
-You can use the [editor on GitHub](https://github.com/xenak/python_proj_twitch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Содержание
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. [Отчёт](https://xenak.github.io/python_proj_twitch/model/)
+2. [Сбор Данных](https://xenak.github.io/python_proj_twitch/data/)
+3. [Данные](https://xenak.github.io/python_proj_twitch/model/twitchdata.csv)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+#### Небольшая справка:
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. **стример** – человек, который ведёт трансляцию
+2. **стрим** – непосредственно сама трансляция
+3. **профессиональный/медийный канал** – конкретно в контексте данного проекта(!) канал, транслирующий крупные события и/или киберспортивные турниры, а также это могут быть официальные каналы крупных компаний (пример: nintendo, imdb, сам twitch)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xenak/python_proj_twitch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[](http://static-cdn.jtvnw.net/emoticons/v1/25/1.0)
