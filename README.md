@@ -2,9 +2,9 @@
 
 ### Содержание
 
-1. [Отчёт](https://xenak.github.io/python_proj_twitch/model/)
-2. [Сбор Данных](https://xenak.github.io/python_proj_twitch/data/)
-3. [Данные](https://xenak.github.io/python_proj_twitch/model/twitchdata.csv)
+1. [Отчёт](https://xenak.github.io/python_proj/model/)
+2. [Сбор Данных](https://xenak.github.io/python_proj/data/)
+3. [Данные](https://xenak.github.io/python_proj/model/twitchdata.csv)
 
 
 
